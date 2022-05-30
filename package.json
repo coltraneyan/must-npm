@@ -1,0 +1,12 @@
+{
+  "name": "@coltraneyan/must",
+  "version": "1.0.0",
+  "description": "evaluates arguments before passing function",
+  "license": "MIT",
+  "repository": "coltraneyan/must-npm",
+  "main": "index.js",
+  "keywords": [
+    "must",
+    "require"
+  ]
+}
